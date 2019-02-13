@@ -1,0 +1,53 @@
+
+
+h2{
+    color: #FFBC00;
+    font-size: 40px;
+    font-family: "Passion One";
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+#Header{
+    text-align: center;
+    font-family: "Passion One";
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px black;
+    background-color: rgb(248, 124, 217);
+}
+
+#font{
+    font-family: fantasy;
+}
+
+
+#Content{
+    
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 15px;
+    border: solid 8px black;
+    background-color: rgb(127, 178, 219);
+}
+#Footer{
+
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 8px black;
+    background-color: rgb(110, 101, 119);
+}
+
+#ps{
+
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 8px black;
+    background-color: rgb(230, 136, 136);
+}
